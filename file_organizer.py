@@ -7,6 +7,7 @@ import time
 from tkinter import Tk, Button, Label, filedialog, messagebox, PhotoImage
 from tkinter.ttk import Progressbar, Style
 
+# // ADDED EXTRA IMPORTS FOR FUTURE FEATURES
 # ---------------- PATH SETUP ---------------- #
 
 if getattr(sys, 'frozen', False):
